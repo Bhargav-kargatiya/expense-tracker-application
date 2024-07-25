@@ -11,6 +11,14 @@ A full-stack application for managing personal finances, allowing users to track
 - [Environment Variables](#environment-variables)
 - [Contributing](#contributing)
 
+| ![Transaction Detail Form](https://github.com/user-attachments/assets/6e0b81f2-e690-458c-a5b5-f7f861e9f462) | ![Add Category Form](https://github.com/user-attachments/assets/45ced761-cd8f-4d98-9227-d6233aaa791f) |
+|:--:|:--:|
+| **Transaction Detail Form** | **Add Category Form** |
+
+| ![Categories List](https://github.com/user-attachments/assets/896364e1-830a-4f80-ad86-0a5c7011bccc) | ![Dashboard](https://github.com/user-attachments/assets/85e11bd3-cb65-4aea-9081-cbe29adfc634) |
+|:--:|:--:|
+| **Categories List** | **Dashboard** |
+
 
 ## Features
 - User registration and login.
